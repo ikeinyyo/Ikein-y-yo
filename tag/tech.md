@@ -1,6 +1,7 @@
 ---
 layout: tag
-title: "Tag: tech"
+title: "Técnicos"
+description: False
 tag: tech
 robots: noindex
 ---
