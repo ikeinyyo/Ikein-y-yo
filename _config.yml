@@ -2,7 +2,7 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 100 # it will paginate after this number
-language: 'en-uk'
+language: 'es-es'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /Ikein-y-yo/
@@ -10,27 +10,26 @@ baseurl: /Ikein-y-yo/
 # Website info
 title: Ikein y yo
 description: The professional publishing platform
-cover: assets/images/blog-cover.jpg
+cover: assets/images/bg.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://jekyller.github.io/jasper2/
-source_url: https://github.com/jekyller/jasper2/
+production_url: http://www.ikeinyyo.com/
+source_url: https://github.com/ikeinyyo/Ikein-y-yo/
 
 # Social info
 navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+twitter: maktub82 # replace by your username
 
 # Disqus
-disqus: False
-disqus_shortname: jekyller # replace with your disqus username
+disqus: True
+disqus_shortname: ikeinyyo # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: UA-97363619-1 # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
@@ -66,13 +65,13 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyller
-repo: jasper2
+username: ikeinyyo
+repo: Ikein-y-yo
 branch: master
-relative_source: ../jasper2/
-destination: ../jasper2-pages/
-production_url:  https://jekyller.github.io/jasper2/
-source_url:  https://github.com/jekyller/jasper2/
+relative_source: ../ikeinyyo/
+destination: ../Ikein-y-yo/
+production_url:  http://www.ikeinyyo.com/
+source_url:  https://github.com/ikeinyyo/Ikein-y-yo/
 
 exclude:
   - assets/css
