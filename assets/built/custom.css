@@ -1,0 +1,72 @@
+*:not(code) {
+ font-family: "Open Sans";
+ }
+
+ pre span, code span {
+   font-family: "Consolas" !important;
+ }
+
+ .blog-logo img {
+ height: 65px !important;
+ }
+
+ .post-full-content pre {
+  background: transparent;
+  border: 1px solid #eee;
+ }
+
+ .home-template .main-header {
+ height: 570px;
+ }
+
+ .page-description,
+ .page-title {
+ color: #5AA896;
+ }
+
+ .home-template .site-title {
+   display: none !important;
+ }
+
+ .home-template .main-header .page-title,
+ .paged .main-header .page-title {
+ display: none !important;
+ }
+
+ pre {
+   background: transparent;
+   padding: 2px;
+ }
+
+ .site-header:before {
+   background: transparent;
+ }
+
+ .author-template .site-header,
+ .tag-template  .site-header {
+     background: #00d0ff;
+ }
+
+ .page-about-me .post-full-content img {
+   display: inline-block;
+     margin: 2px;
+ }
+
+  .page-about-me .post-full-content a {
+   box-shadow: inset 0 -1px 0 transparent;
+ }
+
+ .site-nav,
+ .tag-template .nav li a,
+ .home-template .nav li a,
+ .tag-template .site-nav-logo,
+ .site-title,
+ .site-description{
+     color: black;
+     font-weight: bold;
+ }
+
+ .social-link svg,
+ .rss-button svg {
+     fill: black;
+ }
