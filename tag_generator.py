@@ -20,7 +20,7 @@ filenames = glob.glob(post_dir + '*md')
 
 total_tags = []
 for filename in filenames:
-    f = open(filename, 'r', encoding="utf8")
+    f = open(filename, 'r')
     crawl = False
     for line in f:
         if crawl:
@@ -44,7 +44,10 @@ for tag in old_tags:
 
 for tag in total_tags:
     tag_filename = tag_dir + tag + '.md'
-    f = open(tag_filename, 'a')
+    try:
+        f = open(tag_filename, 'a')
+    except IOError:
+        f = open(tag_filename, 'w')
     write_str = '---\nlayout: tagpage\ntitle: \"Tag: ' + tag + '\"\ntag: ' + tag + '\nrobots: noindex\n---\n'
     f.write(write_str)
     f.close()
