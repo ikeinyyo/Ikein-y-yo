@@ -7,7 +7,7 @@
                 <a class="site-nav-logo" href="{{ site.url }}">{{ site.title }}</a>
             {% endif %}
         {% endif %}
-        {% if page.navigation %}
+        {% if !page || page.navigation %}
             {% include navigation.html %}
         {% endif %}
     </div>

@@ -15,8 +15,10 @@
   border: 1px solid #eee;
  }
 
+ .site-header.outer.no-cover,
  .home-template .main-header {
  height: 570px;
+ background-color: #00d0ff !important;
  }
 
  .page-description,
@@ -24,12 +26,12 @@
  color: #5AA896;
  }
 
- .home-template .site-title,
- .home-template .site-description {
+ .site-main-home .site-title,
+ .site-main-home .site-description {
    display: none !important;
  }
 
- .home-template .main-header .page-title,
+ .site-main-home .main-header .page-title,
  .paged .main-header .page-title {
  display: none !important;
  }
@@ -59,15 +61,19 @@
 
  .site-nav,
  .tag-template .nav li a,
- .home-template .nav li a,
+ .site-main-home .nav li a,
  .tag-template .site-nav-logo,
  .site-title,
  .site-description{
-     color: black;
      font-weight: bold;
  }
 
- .social-link svg,
- .rss-button svg {
-     fill: black;
+.home-template .site-nav {
+   position: relative;
+   top: -0px !important;
  }
+
+ .site-main-home .site-nav {
+    position: relative;
+    top: -70px !important;
+  }
