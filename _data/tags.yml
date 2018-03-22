@@ -1,16 +1,16 @@
-speeches:
-  name: speeches
-  description: Some of the greatest words ever spoken.
-  cover: assets/images/speeches.jpg
-fiction:
-  name: fiction
+micropost:
+  name: Micropost
   description: False
   cover: False
-fables:
-  name: fables
-  description: A series of short stories that make you think.
-  cover: assets/images/fables.jpg
-getting-started:
-  name: getting-started
+magic:
+  name: Magic
   description: False
+  cover: False
+tech:
+  name: Tech
+  description: False
+  cover: False
+minecraft:
+  name: Minecraft
+  description: Todos los post sobre Minecraft
   cover: False

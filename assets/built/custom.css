@@ -24,7 +24,8 @@
  color: #5AA896;
  }
 
- .home-template .site-title {
+ .home-template .site-title,
+ .home-template .site-description {
    display: none !important;
  }
 
