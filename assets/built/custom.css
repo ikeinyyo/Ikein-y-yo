@@ -73,6 +73,18 @@
    top: -0px !important;
  }
 
+ .site-nav-logo {
+   padding: 0px;
+   margin-top: -4px;
+ }
+ .site-nav-logo img {
+   height: 38px !important;
+ }
+
+.author-template .site-header-content {
+  padding: 2vw 4vw;
+}
+
 @media (min-width: 900px) {
  .site-main-home .site-nav {
     position: relative;
@@ -83,4 +95,6 @@
   .home-template .main-header {
     height: 448px;
   }
+
+
 }
