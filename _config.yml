@@ -6,9 +6,6 @@ language: 'es-es'
 
 # Launch to test: bundle exec jekyll serve -d _site
 
-# edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
-
 # Website info
 title: Ikein y yo
 description:
@@ -33,10 +30,13 @@ disqus_shortname: ikeinyyo # replace with your disqus username
 # Google Analytics
 google_analytics: UA-97363619-1 # replace with your GA tracking identifier
 
+# edit baseurl to simply '/' if using as your personal page (instead of a project page)
+baseurl: /
+
 # Permalinks
 permalink: /:title
-permalink: /author/:author
-permalink: /tag/:tag
+# permalink: /author/:author
+# permalink: /tag/:tag
 
 # Authors' info in `_data/authors.yml`
 # Tags' info in `_data/tags_info.yml`
@@ -74,6 +74,7 @@ relative_source: ../ikeinyyo/
 destination: ../Ikein-y-yo/
 production_url:  http://www.ikeinyyo.com/
 source_url:  https://github.com/ikeinyyo/Ikein-y-yo/
+
 
 exclude:
   - assets/css
