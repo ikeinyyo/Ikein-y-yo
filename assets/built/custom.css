@@ -17,7 +17,6 @@
 
  .site-header.outer.no-cover,
  .home-template .main-header {
- height: 570px;
  background-color: #00d0ff !important;
  }
 
@@ -68,12 +67,20 @@
      font-weight: bold;
  }
 
-.home-template .site-nav {
+.home-template .site-nav,
+.site-main-home .site-nav {
    position: relative;
    top: -0px !important;
  }
 
+@media (min-width: 900px) {
  .site-main-home .site-nav {
     position: relative;
     top: -70px !important;
   }
+
+  .site-header.outer.no-cover,
+  .home-template .main-header {
+    height: 448px;
+  }
+}
