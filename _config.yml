@@ -7,7 +7,7 @@ language: 'es-es'
 # Launch to test: bundle exec jekyll serve -d _site
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /Ikein-y-yo/
+baseurl: /
 
 # Website info
 title: Ikein y yo
