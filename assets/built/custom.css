@@ -85,6 +85,15 @@
   padding: 2vw 4vw;
 }
 
+.site-main-home {
+  background-position-y: -30px;
+  background-color: #00d0ff;
+}
+
+.post-card-tags.inline {
+  display: inline;
+}
+
 @media (min-width: 900px) {
  .site-main-home .site-nav {
     position: relative;
