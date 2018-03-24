@@ -32,6 +32,7 @@ google_analytics: UA-97363619-1 # replace with your GA tracking identifier
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
+root: /
 
 # Permalinks
 permalink: /:title
