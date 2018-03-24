@@ -31,9 +31,9 @@ into the {body} of the default.hbs template -->
                         <span class="date-divider">/</span>
                         {% for tag in page.tags %}
                             {% if forloop.index == page.tags.size %}
-                               <span><a href='{{ site.root }}tag/{{ tag | downcase | replace: ' ', '-' }}'>{{ tag | upcase }}</a></span>
+                               <span class="post-tag"><a href='{{ site.root }}tag/{{ tag | downcase | replace: ' ', '-' }}'>{{ tag | upcase }}</a></span>
                             {% else %}
-                               <span><a href='{{ site.root }}tag/{{ tag | downcase | replace: ' ', '-' }}'>{{ tag | upcase }}</a>&nbsp;</span>
+                               <span class="post-tag"><a href='{{ site.root }}tag/{{ tag | downcase | replace: ' ', '-' }}'>{{ tag | upcase }}</a>&nbsp;-&nbsp;</span>
                             {% endif %}
                         {% endfor %}
                     {% endif %}

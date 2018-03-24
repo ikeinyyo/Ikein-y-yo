@@ -94,6 +94,10 @@
   display: inline;
 }
 
+.post-tag {
+  color: #26a8ed;
+}
+
 @media (min-width: 900px) {
  .site-main-home .site-nav {
     position: relative;
