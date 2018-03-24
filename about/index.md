@@ -4,7 +4,7 @@ current: about
 title: Sobre mí...
 navigation: true
 logo: 'assets/images/ghost.png'
-class: page-template
+class: page-template page-about-me
 subclass: 'post page'
 ---
 
@@ -14,13 +14,15 @@ Me llamo Sergio Gallardo y actualmente estoy trabajando en Plain Concepts como W
 
 ## Experiencia
 
-Llevo 3 años trabajando en Plain Concepts como desarrollador de aplicaciones en plataforma Microsoft.: Xbox 360, Xbox One, Windows 8.x, Windows 10 y aplicaciones de escritorio con WPF.
+Llevo más de 3 años trabajando en Plain Concepts como desarrollador de aplicaciones en plataforma Microsoft.: Xbox 360, Xbox One, Windows 8.x, Windows 10 y aplicaciones de escritorio con WPF.
 
-Durante mi experiencia laboral **he llevado la gestión del equipo y la comunicación con el cliente en varios de los proyectos**. Esto es algo que me motiva y que cada vez estoy haciendo con más frecuencia.
+Durante mi experiencia laboral **he llevado la gestión del equipo y la comunicación con el cliente en varios de los proyectos**.
+
+Actualmente trabajo como Delivery Manager
 
 ### Plain Concepts
 
-#### Delivery Manager (febrero 2018 - actualidad)
+#### Delivery Manager (enero 2018 - actualidad)
 
 Mi puesto en Plain Concepts es un perfil mixto de gestión/técnico cuyas principales responsabilidades son:
 
@@ -30,7 +32,7 @@ Mi puesto en Plain Concepts es un perfil mixto de gestión/técnico cuyas princi
 * Coordinación de los miembros del equipo de desarrollo, facilitando los procesos y eliminando impedimentos.
 * Promover la autoorganización del equipo.
 
-#### Windows Platform Developer (junio 2014 - febrero 2018)
+#### Windows Platform Developer (junio 2014 - enero 2018)
 
 Desarrollo de aplicaciones multimedia con C#/XAML y JS/HTML para Xbox 360, Xbox One, Windows8/8.1, Windows Phone 8/8.1 y Windows 10.
 
