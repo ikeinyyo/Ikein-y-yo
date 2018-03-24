@@ -1,9 +1,9 @@
 ---
 layout: post
 current: post
-cover: False
+cover: /assets/images/minecraft-azure/mapcrafter.jpg
 navigation: True
-title: Minecraft en Azure: jugando a ser IT Pro
+title: Minecraft en Azure jugando a ser IT Pro
 date: 2017-01-21 20:00:00
 tags: tech minecraft
 class: post-template

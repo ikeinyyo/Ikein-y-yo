@@ -58,7 +58,8 @@ Pero encontré en el [repositorio de GitHub de Ghost](https://github.com/felixri
 ![Botón de Azure Deploy](/assets/images/hello-world/button.png)
 
 El botón este nos lanza el despliegue de Azure desde un repositorio de git. Nos lleva a una url de este estilo:
-> https://deploy.azure.com?repository=https://github.com/felixrieseberg/Ghost-Azure#/form/setup
+
+ `https://deploy.azure.com?repository=https://github.com/felixrieseberg/Ghost-Azure#/form/setup`
 
 ![Azure Deploy](/assets/images/hello-world/azuredeploy.png)
 
