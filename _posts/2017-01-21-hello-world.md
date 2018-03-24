@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: False
 navigation: True
-title: Hola Mundo: un blog en Ghost
+title: "Hola Mundo: un blog en Ghost"
 date: 2017-01-21 12:00:00
 tags: tech
 class: post-template
