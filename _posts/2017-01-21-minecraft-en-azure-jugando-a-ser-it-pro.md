@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/minecraft-azure/mapcrafter.jpg
+cover: assets/images/minecraft-en-azure-jugando-a-ser-it-pro/mapcrafter.jpg
 navigation: True
 title: "Minecraft en Azure: jugando a ser IT Pro"
 date: 2017-01-21 20:00:00
@@ -16,7 +16,7 @@ author: maktub82
 ## Primero, la Máquina Virtual
 Bueno, lo primero que necesitamos es tener una máquina virtual. En este caso yo he elegido una máquina virtual con Linux porque es más barata.
 
-![Listado de precios](/assets/images/minecraft-azure/prices.jpg)
+![Listado de precios](/assets/images/posts/minecraft-en-azure-jugando-a-ser-it-pro/prices.jpg)
 
 En mi caso he cogido una de tipo A2 con 2 núcleos y 3,5GB de RAM con Ubuntu 14.04. Es más que suficiente para todo lo que tengo montado.
 
@@ -38,7 +38,7 @@ Y ahora simplemente basta con ejecutar el siguiente comando:
 
 **¡Importante!** Cuando iniciemos el server con el comando anterior nos dará un fallo diciendo que tenemos que aceptar los términos y condiciones de [EULA](https://account.mojang.com/documents/minecraft_eula). Para ello únicamente tenemos que modificar el fichero eula.txt, que se habrá generado en la carpeta del servidor, cambiando el flag `eula=false` por `eula=true`.
 
-![Servidor funcionando](/assets/images/minecraft-azure/serverRun.jpg)
+![Servidor funcionando](/assets/images/posts/minecraft-en-azure-jugando-a-ser-it-pro/serverRun.jpg)
 
 Ya tenemos nuestros servidor de Minecraft funcionando. Sólo nos quedan dos cositas por hacer: editar la configuración y [abrir los puertos](https://docs.microsoft.com/en-us/azure/virtual-machines/virtual-machines-windows-endpoints-in-resource-manager).
 
@@ -63,7 +63,7 @@ Como veis es mucho más cómo que ejecutar programas como servicios. Usaremos es
 
 `screen –list`
 
-![Screen](/assets/images/minecraft-azure/screen.jpg)
+![Screen](/assets/images/posts/minecraft-en-azure-jugando-a-ser-it-pro/screen.jpg)
 
 **Nota:** Es una solución muy sencilla para mantener procesos lanzados. El problema es que si necesitas reiniciar la máquina virtual necesitas volver a lanzarlos. En cambio si los pones como servicios puedes hacer que se arranquen al inicio.
 
@@ -90,7 +90,7 @@ Ya tenemos un servidor de Minecraft en Azure, con su servidor FTP para descargar
 
 Poco después busqué un programa capaz de renderizar el mundo de Minecraft en una imagen. Pero encontré algo mucho mejor: [MapCrafter](http://mapcrafter.org/). Este programa renderiza el mapa en pequeñas imágenes a diferentes resoluciones y crea una web al estilo Bing Maps o Google Maps. Es una web muy sencilla, con un archivo HTML, su Javascript y todos los recursos que se genera. Es decir, basta con abrir el index.html para poder disfrutarla.
 
-![MapCrafter](/assets/images/minecraft-azure/mapcrafter.jpg)
+![MapCrafter](/assets/images/posts/minecraft-en-azure-jugando-a-ser-it-pro/mapcrafter.jpg)
 
 Simplemente creando un fichero de configuración y ejecutando el siguiente comando generamos la web en el directorio de salida.
 
@@ -107,12 +107,12 @@ Instalamos http-server:
 
 Y ahora ejecutamos en el directorio que queramos http-server:
 
-![Http Server](/assets/images/minecraft-azure/httpserver.jpg)
+![Http Server](/assets/images/posts/minecraft-en-azure-jugando-a-ser-it-pro/httpserver.jpg)
 
 Ya tenemos un servidor HTTP en el directorio donde lo ejecutemos. En mi caso lo tengo escuchando en el puerto 8080. Únicamente tengo que abrir en Azure un puerto para la web y listo. Yo he abierto el puerto 80 público.
 En este caso, igual que hago con el servidor de Minecraft, lo ejecuto en otra screen diferente. Tal y como hemos visto antes tengo dos consolas virtuales ejecutándose.
 
-![Http Server Screen](/assets/images/minecraft-azure/screen.jpg)
+![Http Server Screen](/assets/images/posts/minecraft-en-azure-jugando-a-ser-it-pro/screen.jpg)
 
 ## ¿Qué nos depara el futuro?
 Quedan muchas cosas por mejorar. De momento el renderizado del mapa lo hago yo a mano conectándome por SSH. Paro el servidor de Minecraft, renderizo el mundo y vuelvo a arrancarlo. Como una primera solución he creado un script que primero renderiza el mapa y luego ejecuta el servidor. De este modo está un poco más automatizado: paro el servidor de Minecraft, ejecuto el script y me olvido.

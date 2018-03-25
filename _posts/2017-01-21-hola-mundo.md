@@ -20,7 +20,7 @@ Para empezar, os voy a contar mi experiencia desplegando un blog de Ghost en Azu
 
 Antes de decidirme por Ghost (por cambiar un poco de Wordpress) miré algunas de las soluciones que nos ofrece Azure en el tema de blogs y CMS. Que como podemos ver son muchas.
 
-![Azure Marketplace](/assets/images/hello-world/blogs.PNG)
+![Azure Marketplace](/assets/images/posts/hola-mundo/blogs.PNG)
 
 Al final me decidí a probar Ghost por su simplicidad y DNN por su complejidad.
 
@@ -55,13 +55,13 @@ Tras mucho tiempo recreando el servicio, instalando en el servidor sqlite, reins
 
 Pero encontré en el [repositorio de GitHub de Ghost](https://github.com/felixrieseberg/Ghost-Azure) un botón mágico.
 
-![Botón de Azure Deploy](/assets/images/hello-world/button.png)
+![Botón de Azure Deploy](/assets/images/posts/hola-mundo/button.png)
 
 El botón este nos lanza el despliegue de Azure desde un repositorio de git. Nos lleva a una url de este estilo:
 
  `https://deploy.azure.com?repository=https://github.com/felixrieseberg/Ghost-Azure#/form/setup`
 
-![Azure Deploy](/assets/images/hello-world/azuredeploy.png)
+![Azure Deploy](/assets/images/posts/hola-mundo/azuredeploy.png)
 
 Y por fin, cuando termina esta instalación todo funciona perfectamente y aquí estamos.
 
