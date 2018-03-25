@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/minecraft-en-azure-jugando-a-ser-it-pro/mapcrafter.jpg
+cover: assets/images/posts/minecraft-en-azure-jugando-a-ser-it-pro/mapcrafter.jpg
 navigation: True
 title: "Minecraft en Azure: jugando a ser IT Pro"
 date: 2017-01-21 20:00:00
