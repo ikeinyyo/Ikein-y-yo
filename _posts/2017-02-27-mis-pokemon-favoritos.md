@@ -5,7 +5,7 @@ cover: assets/images/posts/mis-pokemon-favoritos/header.jpg
 navigation: True
 title: "Mis Pokémon favoritos"
 date: 2017-02-27 12:00:00
-tags: pokémon
+tags: pokemon
 class: post-template
 subclass: 'post'
 author: maktub82
@@ -53,7 +53,7 @@ Pese a que yo tuve de pequeño la edición Oro y siempre me había gustado más 
 
 ## Tercera generación - La edad de las piedras preciosas
 
-> Una nueva generación y una nueva región aparecen con Pokémon Rubí y Zafiro.
+Una nueva generación y una nueva región aparecen con Pokémon Rubí y Zafiro.
 
 ![Swampert](/assets/images/posts/mis-pokemon-favoritos/swampert.gif)
 
@@ -73,7 +73,7 @@ Con **Kyogre** me pasó lo mismo que con **Lugia** y **Ho-oh**. Yo tuve el Poké
 
 ## Cuarta generación – La generación perdida
 
-> Dejé de jugar a Pokémon en la tercera generación y no lo retomé hasta la sexta. La cuarta es mi primera generación perdida, eso sí, acabé pasándome el Pokémon Diamante años después.
+Dejé de jugar a Pokémon en la tercera generación y no lo retomé hasta la sexta. La cuarta es mi primera generación perdida, eso sí, acabé pasándome el Pokémon Diamante años después.
 
 ![Infernape](/assets/images/posts/mis-pokemon-favoritos/infernape.gif)
 
@@ -93,7 +93,7 @@ Los Pokémon legendarios del Pokémon Diamante y Pokémon Perla no acabaron de g
 
 ## Quinta generación – Grandes diseños
 
-> Al igual que el Pokémon Diamante, acabé pasándome el Pokémon Blanco tiempo después de que saliera a la venta.
+Al igual que el Pokémon Diamante, acabé pasándome el Pokémon Blanco tiempo después de que saliera a la venta.
 
 ![Serperior](/assets/images/posts/mis-pokemon-favoritos/serperior.gif)
 
@@ -113,7 +113,7 @@ Tampoco me gustan muchos los legendarios principales del Pokémon Blanco y Poke�
 
 ## Sexta generación – De vuelta al mundo Pokémon
 
-> Con Pokémon X e Y vuelvo al mundo de Pokémon
+Con Pokémon X e Y vuelvo al mundo de Pokémon
 
 ![Greninja](/assets/images/posts/mis-pokemon-favoritos/greninja.gif)
 
@@ -133,7 +133,7 @@ El Pokémon genio **Hoopa**. Fue el primer Pokémon legendario de evento que con
 
 ## Séptima generación – El salto de calidad
 
-> La séptima generación ha supuesto un gran salto de calidad en los juegos de Pokémon.
+La séptima generación ha supuesto un gran salto de calidad en los juegos de Pokémon.
 
 ![Decidueye](/assets/images/posts/mis-pokemon-favoritos/decidueye.gif)
 

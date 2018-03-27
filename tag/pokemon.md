@@ -2,6 +2,6 @@
 layout: tag
 title: "Pokémon"
 description: "Hazte con todos los posts!"
-tag: pokémon
+tag: pokemon
 robots: noindex
 ---
