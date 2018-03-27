@@ -98,6 +98,15 @@
   color: #26a8ed;
 }
 
+.floating-header-logo {
+  overflow: visible;
+}
+
+.floating-header-logo img {
+    filter: invert(100%);
+    max-height: 28px !important;
+}
+
 @media (min-width: 900px) {
  .site-main-home .site-nav {
     position: relative;
@@ -109,5 +118,7 @@
     height: 448px;
   }
 
-
+  .floating-header-logo img {
+      max-height: 38px !important;
+  }
 }
