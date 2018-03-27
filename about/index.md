@@ -10,7 +10,7 @@ subclass: 'post page'
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue.svg)](https://www.linkedin.com/in/sergiogallardosales/)[![No Country for Geeks](https://img.shields.io/badge/Colaborando-No%20Country%20for%20Geeks-orange.svg)](http://www.nocountryforgeeks.com/author/gallardo)[![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/maktub82)[![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/maktub82)
 
-Me llamo Sergio Gallardo y actualmente estoy trabajando en Plain Concepts como Windows Platform Developer.
+Me llamo Sergio Gallardo y actualmente estoy trabajando en Plain Concepts como Delivery Manager.
 
 ## Experiencia
 
