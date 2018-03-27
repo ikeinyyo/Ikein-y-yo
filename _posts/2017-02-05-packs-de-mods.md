@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/posts/nether-hub/home.jpg
+cover: assets/images/posts/packs-de-mods/ftb-direwolf.jpg
 navigation: True
 title: "Packs de Mods en Minecraft"
 date: 2017-02-05 12:00:00
