@@ -107,6 +107,11 @@
     max-height: 28px !important;
 }
 
+.highlighter-rouge {
+  min-width: 100%;
+  max-width: 100%;
+}
+
 @media (min-width: 900px) {
  .site-main-home .site-nav {
     position: relative;
