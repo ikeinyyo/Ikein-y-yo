@@ -27,13 +27,13 @@ Yo a finales de 2017 era un chico Fat (80.0 Kg). A día de hoy se puede decir qu
 
 Hasta la fecha **había intentado en varias ocasiones perder algo de peso y ser más activo** en mi día a día, pero no con muy buenos resultados. Gimnasio, dietas, caminatas... **Lo que más me ayudó fue acudir a una nutricionista** que me guío para mejorar mi alimentación.
 
-El problema fue que intenté seguir la dieta muy estrictamente y con falta de ideas para aplicar las restricciones que me indicaban. Todo era pollo, con zanahoria hervida y pasta...
+El problema fue que intenté seguir la dieta estrictamente y con falta de ideas para aplicar las restricciones que me indicaban. Todo era pollo, con zanahoria hervida y pasta...
 
 Aquí va el primer consejo: **lo que hagas tiene que ser sostenible en el tiempo.** Comer todos los días la misma aburrida comida no es sostenible, en cambio, veremos que las cosas que hago actualmente para ser Fet sí lo son.
 
 > Las medidas que tomes tienen que ser sostenibles en el tiempo. Piensa si dentro de 6 meses vas a poder seguir haciéndolo.
 
-## Sergio Peinado
+### Sergio Peinado
 
 **Sergio Peinado es un entrenador personal** y licenciado en Ciencias de la Actividad Física y del Deporte que **tiene un canal de YouTube** llamado [Entrena con Sergio Peinado](https://www.youtube.com/user/EntrenaSergioPeinado).
 
@@ -41,15 +41,15 @@ El público objetivo de este canal de YouTube es la gente que quiere mejorar su 
 
 Sin lugar a duda, seguir este canal ha sido el detonante para mi cambio de estilo de vida. Y no ha sido por los videos de tablas de ejercicio ni consejos de alimentación. Ha sido por los retos.
 
-### Reto de las 10 000 calorías
+#### Reto de las 10 000 calorías
 
 En este reto, **Sergio ingiere durante el día más de 10 000 calorías a base de comida basura.** Lo que más me impresionó de este reto es lo fácil que se puede llegar a las 10 000 calorías comiendo este tipo de comida.
 
-Gracias a este reto me di cuenta de que es posible que yo alguna vez haya ingerido también más de 10 000 calorías y seguro que **muchos días he podido estar en torno a las 5000 - 6000.**
+Gracias a este reto me di cuenta que es posible que yo alguna vez haya ingerido también más de 10 000 calorías y seguro que **muchos días he podido estar en torno a las 5000 - 6000.**
 
 [![Reto de 10 000 calorías - Comida basura](https://img.youtube.com/vi/aDB4p6jldfg/0.jpg)](https://www.youtube.com/watch?v=aDB4p6jldfg)
 
-En este otro vídeo repite este reto pero esta vez con comida sana.
+En este otro vídeo repite el reto pero con comida sana.
 
 [![Reto de 10 000 calorías - Comida sana](https://img.youtube.com/vi/wR-1UeeeUhs/0.jpg)](https://www.youtube.com/watch?v=wR-1UeeeUhs)
 
@@ -57,7 +57,7 @@ Lo más impactante es ver **la gran cantidad de comida que tiene que ingerir par
 
 > Para mí es más importante la calidad de las calorías que la cantidad.
 
-### No hace falta gimnasios
+#### No hace falta gimnasios
 
 Otro video que me gustó mucho fue en el que un suscriptor **cuenta cómo ha sido su camino para ponerse en forma sin pisar un gimnasio.**
 
@@ -69,13 +69,13 @@ Con este vídeo aprendí que **todo suma** y no es necesario hacer dos horas de 
 
 Creo que **este vídeo refleja muy bien la realidad de muchas personas**: intentar muchas veces estar más sano y perder peso sin conseguirlo.
 
-Cuando realmente haces el *click* y te planteas que quieres un cambio en tu estilo de vida, es cuando podrás conseguirlo.
+Cuando realmente haces el *click* y te planteas que quieres un cambio en tu estilo de vida, es cuando podrás alcanzar tu objetivo.
 
 Otro aspecto importante que aprendí es que **no siempre se ven resultados pronto**. Aunque no estemos perdiendo peso, en nuestro cuerpo se están produciendo una serie de cambios que nos ayudan a tener una mejor calidad de vida, y en el futuro a perder grasa más rápido. Así que hay que tener paciencia y seguir adelante.
 
 ## ¿Qué hago yo para ser Fet?
 
-Después de poner un poco de contexto sobre la situación en la que estaba y qué me motivó a ser Fet, vamos a ver qué es exactamente lo que hago para ser Fet y cómo he conseguido mi objetivo marcado en Navidad (72.0 Kg).
+Después de poner un poco de contexto sobre la situación en la que estaba y qué motivó mi cambio, vamos a ver qué es exactamente lo que hago para ser Fet y cómo he conseguido mi objetivo marcado en Navidad (72.0 Kg).
 
 Las instrucciones son pocas: mejorar la alimentación y moverse más.
 
@@ -97,11 +97,11 @@ Para desayunar, además, me tomo un poleo.
 
 > Las grasas buenas sacian.
 
-Con estos nuevos hábitos he descubierto las frutas. Antes casi nunca comía frutas. Mango, fresas, plátano, arándanos, frambuesas, peras...
+Con estos nuevos hábitos he descubierto las frutas: Mango, fresas, plátano, arándanos, frambuesas, peras... Antes casi nunca comía fruta y ahora como 5 piezas al día.
 
 ### Comida
 
-Las comidas están compuestas por **hidratos, verduras y proteínas** e intentó seguir las siguientes cantidades:
+Las comidas están compuestas por **hidratos, verduras y proteínas** e intento seguir las siguientes cantidades:
 
 * Hidratos de carbono:
 	* 200g de patata
@@ -154,7 +154,7 @@ Después de cenar acabo con la quinta y última pieza de fruta del día.
 
 ### Comer fuera
 
-Cuando comemos fuera es más complicado controlamos con la comida. Lo que sí que he intentado desde que soy Fet es que al comer fuera lo que pido cumpla más o menos con las proporciones establecidas.
+Cuando comemos fuera es más complicado controlarnos con la comida. Lo que sí que he intentado desde que soy Fet, es que al comer fuera lo que pido cumpla más o menos con las proporciones establecidas.
 
 Aun así, hay muchas ocasiones en las que eso no sucede. No importa mientras sean excepciones.
 
@@ -170,7 +170,7 @@ Y las he **eliminado no por la cantidad de calorías sino por la calidad de esas
 
 ### Mejor alimentado
 
-Sin lugar a dudas, hoy estoy mejor alimentado. He eliminado los alimentos procesado que están hechos a base de polvos y productos químicos y he añadido alimentos que provienen de las plantas y de los animales.
+Sin lugar a dudas, hoy estoy mejor alimentado. He eliminado los alimentos procesados que están hechos a base de polvos y productos químicos y he añadido alimentos que provienen de las plantas y de los animales.
 
 He aprendido que hay grasas buenas y que te ayudan a estar saciado y llegar con menos hambre a las comidas. Me he hecho muy fan del Chocolate al 90%.
 
@@ -180,7 +180,7 @@ He conocido nuevos y saludables alimentos como los frutos del bosque, el salmón
 
 ## Ejercicio
 
-El otro aspecto importante es el ejercicio. Ya intenté ir al gimnasio en el pasado. Pero se convirtió en una obligación y eso hizo que no fuera sostenible en el tiempo.
+El otro aspecto importante es el ejercicio. Ya intenté ir al gimnasio en el pasado pero se convirtió en una obligación y eso hizo que no fuera sostenible en el tiempo.
 
 Voy a parecer un poco pesado, pero insisto: **lo que hagáis tiene que sostenible en el tiempo.**
 
@@ -201,7 +201,7 @@ El resto de días intento salir con el perro y hacer entre 6Km y 8Km.
 
 > Estar más tiempo activo
 
-La idea general es **moverse más a lo largo del día**. Estar más tiempo activo. De poco sirve una hora de ejercicio si te tiras 23 de sentado.
+La idea general es **moverse más a lo largo del día**, estar más tiempo activo. De poco sirve una hora de ejercicio si estás las otras 23 sentado.
 
 ### Fit Bit Charge 2
 
