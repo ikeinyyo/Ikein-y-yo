@@ -4,7 +4,7 @@ current: post
 cover: assets/images/posts/mas-ram-para-minecraft/arguments.jpg
 navigation: True
 title: "Más RAM para Minecraft"
-date: 2017-03-22 12:00:00
+date: 2017-04-17 12:00:00
 tags: minecraft
 class: post-template
 subclass: 'post'
