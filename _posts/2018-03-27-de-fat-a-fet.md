@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/posts/magic-day-rivales-de-ixalan/poster.jpg
+cover: assets/images/posts/de-fat-a-fet/fet-header.jpg
 navigation: True
 title: "De Fat a Fit pasando por Fet"
 date: 2018-03-27 12:00:00
@@ -132,6 +132,9 @@ Ahora soy mucho más creativo. He aquí algunas de las comidas:
 | Fajitas | Pan | Cebolla, pimiento, guacamole casero | Pollo |
 | Lentejas | Legumbres | Cebolla, pimiento, zanahoria | Jamón |
 
+![Comida Fet](/assets/images/posts/de-fat-a-fet/fet-comida.jpg)
+
+
 De postre me como una pieza de fruta.
 
 ### Cena
@@ -186,6 +189,9 @@ En mi caso no soy muy fan de los gimnasios. Por lo que he decidido salir a camin
 Casi todos los días salgo a caminar. Los días que tengo cosas que hacer y no puedo salir a pasear me vuelvo a casa caminando desde el trabajo (unos 6km).
 
 El resto de días intento salir con el perro y hacer entre 6Km y 8Km.
+
+![Ejercicio Fet](/assets/images/posts/de-fat-a-fet/fet-sport.jpg)
+
 
 **Caminar es el único deporte que hago, pero no todo acaba ahí.**
 
