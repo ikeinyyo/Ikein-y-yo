@@ -4,7 +4,7 @@ current: post
 cover: assets/images/posts/entorno-git-consola-mac/colors-and-branch.png
 navigation: True
 title: "Entorno de Git en la consola de Mac"
-date: 2017-06-03 12:00:00
+date: 2017-07-03 12:00:00
 tags: tech
 class: post-template
 subclass: 'post'
