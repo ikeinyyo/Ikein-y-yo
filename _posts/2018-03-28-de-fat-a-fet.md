@@ -4,7 +4,7 @@ current: post
 cover: assets/images/posts/de-fat-a-fet/fet-header.jpg
 navigation: True
 title: "De Fat a Fit pasando por Fet"
-date: 2018-03-27 12:00:00
+date: 2018-03-28 12:00:00
 tags: fet
 class: post-template
 subclass: 'post'
