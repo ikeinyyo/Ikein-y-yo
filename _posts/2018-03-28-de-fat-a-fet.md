@@ -11,7 +11,7 @@ subclass: 'post'
 author: maktub82
 ---
 
-¡Hola a todos! Hoy os vengo a contar cómo he conseguido convertirme en un chicho Fet.
+¡Hola a todos! Hoy os vengo a contar cómo he conseguido convertirme en un chico Fet.
 
 **Nota:** en este post voy a contar mi propia experiencia y mis resultados. **No se debe de tomar esto como una guía para bajar peso** ni nada por el estilo. Para esas cuestiones siempre **es preferible acudir a un profesional**.
 
