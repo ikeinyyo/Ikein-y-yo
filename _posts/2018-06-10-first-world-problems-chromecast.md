@@ -4,7 +4,7 @@ current: post
 cover: assets/images/posts/first-world-problems-chromecast/header.jpg
 navigation: True
 title: "First World Problems - No puedo enviar mis películas al Chromecast"
-date: 2018-01-25 12:00:00
+date: 2018-06-10 12:00:00
 tags: fwp
 class: post-template
 subclass: 'post'
