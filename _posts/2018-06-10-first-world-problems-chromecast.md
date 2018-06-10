@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/posts/magic-day-rivales-de-ixalan/poster.jpg
+cover: assets/images/posts/first-world-problems-chromecast/header.jpg
 navigation: True
 title: "First World Problems - No puedo enviar mis películas al Chromecast"
 date: 2018-01-25 12:00:00
@@ -41,11 +41,15 @@ Movistar TV **no ofrece contenido offline ni en Windows ni en Mac y tampoco Chro
 
 Sin más. Desconozco el catálogo y no sé si se pueden comprar películas, pero no parece que tenga **soporte offline**.
 
+## Amazon Prime Videos
+
+No he investigado mucho esta opción por ser una plataforma muy verde aún. Pero al parecer ni permite compras, ni Chromecast ni contenido offline en PC y Mac. Por tanto, completamente descartada.
+
 Estas son las opciones de las diferentes plataformas que operan en España. Ninguna ofrece lo que busco. Pero... ¿y las tiendas digitales?
 
 ## iTunes
 
-Hasta ahora parece mi mejor opción. Tiene **soporte offline pero no tiene soporte para Chromecast**. El problema se solucionaría con un cable HDMI. Pero no es eso. Si voy a pagar 14€ por una película, al menos quiero un servicio que me ofrezca lo que busco. 
+Hasta ahora parece mi mejor opción. Tiene **soporte offline pero no tiene soporte para Chromecast**. El problema se solucionaría con un cable HDMI. Pero no es eso. Si voy a pagar 14€ por una película, al menos quiero un servicio que me ofrezca lo que busco.
 
 ## Google Play
 
@@ -53,11 +57,11 @@ Google Play me permite comprar películas y tiene soporte para Chromecast (eso f
 
 Así que a modo de resumen:
 
-|  | Rakuten TV | Netflix | Movistar TV | HBO | iTunes | Google Play |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Compras | ☺️  | 🤬 | ☺️  | 🤬 | ☺️  | ☺️  |
-| Offline (PC/Mac) | 🤬 | 🤬 | 🤬 | 🤬 | ☺️  | 🤪 |
-| Chromecast | ☺️ | ☺️ | 🤬 | ☺️ | 🤬 | ☺️ |
+|  | Rakuten TV | Netflix | Movistar TV | HBO | iTunes | Google Play | Amazon Prime |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Compras | ☺️  | 🤬 | ☺️  | 🤬 | ☺️  | ☺️  | 🤬 |
+| Offline (PC/Mac) | 🤬 | 🤬 | 🤬 | 🤬 | ☺️  | 🤪 | 🤬 |
+| Chromecast | ☺️ | ☺️ | 🤬 | ☺️ | 🤬 | ☺️ | 🤬 |
 
 Al parecer, ninguna plataforma tienes las tres caritas felices (☺️)... incluso Google Play tiene una 🤪 por lo del Chromebook.
 
