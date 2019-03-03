@@ -5,7 +5,7 @@ cover: assets/images/posts/mis-comandos-de-git/header.jpg
 navigation: True
 title: "Mis comandos de Git"
 date: 2017-01-27 12:00:00
-tags: tech
+tags: git tech
 class: post-template
 subclass: 'post'
 author: maktub82

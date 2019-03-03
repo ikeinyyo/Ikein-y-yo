@@ -5,7 +5,7 @@ cover: assets/images/posts/mis-comandos-de-git-2/header.jpg
 navigation: True
 title: "Mis comandos de Git - Parte 2"
 date: 2019-03-02 12:00:00
-tags: tech
+tags: git tech
 class: post-template
 subclass: 'post'
 author: maktub82
@@ -56,7 +56,7 @@ guser() {
 
 De esta forma puedo configurar rápidamente el usuario que quiero utilizar en cada repositorio.
 
-## gundo
+## gundo
 
 Este comando, simplemente, deshace los cambios en el directorio de trabajo.
 
@@ -78,7 +78,7 @@ gcache() {
 }
 ```
 
-## gupdate
+## gupdate
 
 Como no soy la persona más cuidadosa del mundo, a veces hago commits donde no debo hacerlos. Por tanto, si quiero actualizarme una rama, es posible que la tenga contaminada con algo que no debería estar ahí.
 
