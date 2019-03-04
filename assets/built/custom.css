@@ -3,7 +3,7 @@
  }
 
  pre span, code span {
-   font-family: "Consolas" !important;
+   font-family: monospace, monospace !important;
  }
 
  .blog-logo img {
