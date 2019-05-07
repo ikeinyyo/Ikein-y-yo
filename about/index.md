@@ -8,7 +8,7 @@ class: page-template page-about-me
 subclass: 'post page'
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue.svg)](https://www.linkedin.com/in/sergiogallardosales/)[![No Country for Geeks](https://img.shields.io/badge/Colaborando-No%20Country%20for%20Geeks-orange.svg)](http://www.nocountryforgeeks.com/author/gallardo)[![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/maktub82)[![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/maktub82)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue.svg)](https://www.linkedin.com/in/sergiogallardosales/)[![No Country for Geeks](https://img.shields.io/badge/Colaborando-No%20Country%20for%20Geeks-orange.svg)](http://www.nocountryforgeeks.com/author/gallardo)[![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/ikeinyyo)[![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/ikeinyyo)
 
 Me llamo Sergio Gallardo y actualmente estoy trabajando en Plain Concepts como Delivery Manager.
 
@@ -22,7 +22,7 @@ Actualmente trabajo como Delivery Manager
 
 ### Plain Concepts
 
-#### Delivery Manager (enero 2018 - actualidad)
+#### Delivery Lead (enero 2018 - actualidad)
 
 Mi puesto en Plain Concepts es un perfil mixto de gestión/técnico cuyas principales responsabilidades son:
 
